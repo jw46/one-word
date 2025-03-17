@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore secrets
+*secret*
+
+# Temporary learning stuff
+api/learn-terraform-lambda-api-gateway*
